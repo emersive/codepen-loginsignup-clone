@@ -60,6 +60,10 @@ nav a.active {
 	top: 2px;
 }
 
+.signup-form {
+	display:none;
+}
+
 .form-row {
 	clear: both;
 	margin: 0 0 10px 0;
